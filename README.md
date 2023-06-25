@@ -1,3 +1,5 @@
+Create a Ubuntu server
+
 # 💬 CharacterAI
 [![Tag](https://img.shields.io/badge/chat-telegram-blue?style=flat&logo=Telegram)](https://t.me/characterapi)
 ![Tag](https://img.shields.io/github/license/kramcat/CharacterAI)
